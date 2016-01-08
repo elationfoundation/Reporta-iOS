@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Title</key>
+		<string>Step 3: Enable App-Unlock</string>
+		<key>Type</key>
+		<integer>0</integer>
+		<key>CellIdentifier</key>
+		<string>TitleTableViewCellIdentifier2</string>
+		<key>Identity</key>
+		<string>ProfessionalDetails</string>
+		<key>RowHeight</key>
+		<integer>46</integer>
+		<key>Method</key>
+		<string></string>
+		<key>Level</key>
+		<string>Top</string>
+		<key>OptionTitle</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Help Text</string>
+		<key>CellIdentifier</key>
+		<string>HelpTextViewCellIdentifier</string>
+		<key>Identity</key>
+		<string>EnableFriendUnlockHelpText</string>
+		<key>Method</key>
+		<string></string>
+		<key>RowHeight</key>
+		<integer>100</integer>
+		<key>Value</key>
+		<string>Test</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>private_circle_name</string>
+		<key>Type</key>
+		<integer>0</integer>
+		<key>CellIdentifier</key>
+		<string>TitleTableViewCellIdentifier</string>
+		<key>Identity</key>
+		<string>ProfessionalDetails</string>
+		<key>RowHeight</key>
+		<integer>46</integer>
+		<key>Method</key>
+		<string></string>
+		<key>Level</key>
+		<string>Single</string>
+		<key>OptionTitle</key>
+		<string>Edit</string>
+	</dict>
+</array>
+</plist>

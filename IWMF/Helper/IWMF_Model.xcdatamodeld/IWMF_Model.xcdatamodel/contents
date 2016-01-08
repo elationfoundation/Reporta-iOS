@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="9057" systemVersion="15B42" minimumToolsVersion="Xcode 7.0">
+    <entity name="ApplicationData" representedClassName="ApplicationData" syncable="YES">
+        <attribute name="appData" optional="YES" attributeType="Binary" syncable="YES"/>
+    </entity>
+    <entity name="CheckInDetail" representedClassName="CheckInDetail" syncable="YES">
+        <attribute name="checkinData" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="checkinName" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="SOSData" representedClassName="SOSData" syncable="YES">
+        <attribute name="sosData" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="sosName" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="UserDetail" representedClassName="UserDetail" syncable="YES">
+        <attribute name="userData" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="userName" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="CheckInDetail" positionX="-63" positionY="0" width="128" height="75"/>
+        <element name="UserDetail" positionX="-63" positionY="-18" width="128" height="75"/>
+        <element name="SOSData" positionX="-54" positionY="18" width="128" height="75"/>
+        <element name="ApplicationData" positionX="-27" positionY="45" width="128" height="60"/>
+    </elements>
+</model>

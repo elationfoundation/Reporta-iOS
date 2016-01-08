@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Title</key>
+		<string>Step 4: Accept Terms of Use</string>
+		<key>Type</key>
+		<integer>0</integer>
+		<key>CellIdentifier</key>
+		<string>TitleTableViewCellIdentifier2</string>
+		<key>Identity</key>
+		<string>ProfessionalDetails</string>
+		<key>RowHeight</key>
+		<integer>46</integer>
+		<key>Method</key>
+		<string></string>
+		<key>Level</key>
+		<string>Top</string>
+		<key>OptionTitle</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Help Text</string>
+		<key>CellIdentifier</key>
+		<string>HelpTextViewCellIdentifier</string>
+		<key>Identity</key>
+		<string>EnableFriendUnlockHelpText</string>
+		<key>Method</key>
+		<string></string>
+		<key>RowHeight</key>
+		<integer>100</integer>
+		<key>Value</key>
+		<string>Test</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Confirm my registration by email</string>
+		<key>Type</key>
+		<integer>4</integer>
+		<key>CellIdentifier</key>
+		<string>DetailTableViewCellIdentifier</string>
+		<key>Identity</key>
+		<string>sendConfirmationMail</string>
+		<key>RowHeight</key>
+		<integer>46</integer>
+		<key>Method</key>
+		<string>agreeTermsAndConditions</string>
+		<key>Level</key>
+		<string>Single</string>
+		<key>OptionTitle</key>
+		<string></string>
+		<key>IsSelected</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string></string>
+		<key>Type</key>
+		<integer>0</integer>
+		<key>CellIdentifier</key>
+		<string>BlankCellIdentifier</string>
+		<key>Identity</key>
+		<string>Blank</string>
+		<key>RowHeight</key>
+		<integer>18</integer>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Send me updates about Reporta</string>
+		<key>Type</key>
+		<integer>4</integer>
+		<key>CellIdentifier</key>
+		<string>DetailTableViewCellIdentifier</string>
+		<key>Identity</key>
+		<string>sendMeUpdate</string>
+		<key>RowHeight</key>
+		<integer>46</integer>
+		<key>Method</key>
+		<string>agreeTermsAndConditions</string>
+		<key>Level</key>
+		<string>Single</string>
+		<key>OptionTitle</key>
+		<string></string>
+		<key>IsSelected</key>
+		<true/>
+	</dict>
+</array>
+</plist>

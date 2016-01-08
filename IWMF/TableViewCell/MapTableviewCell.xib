@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="9059" systemVersion="15B42" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9049"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="MapTableviewCellIdentifier" rowHeight="257" id="GlT-hb-Nv2" customClass="MapTableviewCell" customModule="IWMF" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="400" height="95"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="GlT-hb-Nv2" id="I0H-27-s5Y">
+                <rect key="frame" x="0.0" y="0.0" width="400" height="94"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <mapView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" mapType="standard" translatesAutoresizingMaskIntoConstraints="NO" id="6CA-G2-MZd">
+                        <rect key="frame" x="0.0" y="0.0" width="240" height="128"/>
+                        <animations/>
+                        <connections>
+                            <outlet property="delegate" destination="GlT-hb-Nv2" id="zie-e3-sY4"/>
+                        </connections>
+                    </mapView>
+                    <view alpha="0.5" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="lzw-UH-UgX">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <animations/>
+                        <color key="backgroundColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="50" id="qLu-4r-ryD"/>
+                        </constraints>
+                        <variation key="default">
+                            <mask key="constraints">
+                                <exclude reference="qLu-4r-ryD"/>
+                            </mask>
+                        </variation>
+                        <variation key="heightClass=regular-widthClass=compact">
+                            <mask key="constraints">
+                                <include reference="qLu-4r-ryD"/>
+                            </mask>
+                        </variation>
+                    </view>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Drag pin on map to locate or choose from nearby locations below" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="caG-Oz-6Up">
+                        <rect key="frame" x="0.0" y="-21" width="42" height="21"/>
+                        <animations/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="50" id="lfh-J4-WEj"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" name="HelveticaNeue-Light" family="Helvetica Neue" pointSize="13"/>
+                        <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="calibratedRGB"/>
+                        <nil key="highlightedColor"/>
+                        <variation key="default">
+                            <mask key="constraints">
+                                <exclude reference="lfh-J4-WEj"/>
+                            </mask>
+                        </variation>
+                        <variation key="heightClass=regular-widthClass=compact">
+                            <mask key="constraints">
+                                <include reference="lfh-J4-WEj"/>
+                            </mask>
+                        </variation>
+                    </label>
+                </subviews>
+                <animations/>
+                <constraints>
+                    <constraint firstItem="6CA-G2-MZd" firstAttribute="top" secondItem="I0H-27-s5Y" secondAttribute="top" id="Aaa-Gt-IcR"/>
+                    <constraint firstAttribute="trailing" secondItem="6CA-G2-MZd" secondAttribute="trailing" id="b22-ct-IU6"/>
+                    <constraint firstItem="caG-Oz-6Up" firstAttribute="leading" secondItem="I0H-27-s5Y" secondAttribute="leading" constant="15" id="bS5-Ry-Z1h"/>
+                    <constraint firstAttribute="trailing" secondItem="caG-Oz-6Up" secondAttribute="trailing" constant="15" id="bwN-2K-OZo"/>
+                    <constraint firstAttribute="bottom" secondItem="caG-Oz-6Up" secondAttribute="bottom" constant="1" id="cQf-Dr-lmf"/>
+                    <constraint firstItem="6CA-G2-MZd" firstAttribute="leading" secondItem="I0H-27-s5Y" secondAttribute="leading" id="gb1-eV-csj"/>
+                    <constraint firstAttribute="trailing" secondItem="lzw-UH-UgX" secondAttribute="trailing" id="guF-rX-0Iq"/>
+                    <constraint firstAttribute="bottom" secondItem="lzw-UH-UgX" secondAttribute="bottom" id="hNv-bc-G5a"/>
+                    <constraint firstItem="lzw-UH-UgX" firstAttribute="leading" secondItem="I0H-27-s5Y" secondAttribute="leading" id="k8s-0L-oXm"/>
+                    <constraint firstAttribute="bottom" secondItem="6CA-G2-MZd" secondAttribute="bottom" id="rTo-Ug-h2D"/>
+                </constraints>
+                <variation key="default">
+                    <mask key="subviews">
+                        <exclude reference="6CA-G2-MZd"/>
+                        <exclude reference="lzw-UH-UgX"/>
+                        <exclude reference="caG-Oz-6Up"/>
+                    </mask>
+                    <mask key="constraints">
+                        <exclude reference="Aaa-Gt-IcR"/>
+                        <exclude reference="b22-ct-IU6"/>
+                        <exclude reference="gb1-eV-csj"/>
+                        <exclude reference="rTo-Ug-h2D"/>
+                        <exclude reference="guF-rX-0Iq"/>
+                        <exclude reference="hNv-bc-G5a"/>
+                        <exclude reference="k8s-0L-oXm"/>
+                        <exclude reference="bS5-Ry-Z1h"/>
+                        <exclude reference="bwN-2K-OZo"/>
+                        <exclude reference="cQf-Dr-lmf"/>
+                    </mask>
+                </variation>
+                <variation key="heightClass=regular-widthClass=compact">
+                    <mask key="subviews">
+                        <include reference="6CA-G2-MZd"/>
+                        <include reference="lzw-UH-UgX"/>
+                        <include reference="caG-Oz-6Up"/>
+                    </mask>
+                    <mask key="constraints">
+                        <include reference="Aaa-Gt-IcR"/>
+                        <include reference="b22-ct-IU6"/>
+                        <include reference="gb1-eV-csj"/>
+                        <include reference="rTo-Ug-h2D"/>
+                        <include reference="guF-rX-0Iq"/>
+                        <include reference="hNv-bc-G5a"/>
+                        <include reference="k8s-0L-oXm"/>
+                        <include reference="bS5-Ry-Z1h"/>
+                        <include reference="bwN-2K-OZo"/>
+                        <include reference="cQf-Dr-lmf"/>
+                    </mask>
+                </variation>
+            </tableViewCellContentView>
+            <animations/>
+            <connections>
+                <outlet property="lblMapText" destination="caG-Oz-6Up" id="Wln-qP-RyV"/>
+                <outlet property="mapView" destination="6CA-G2-MZd" id="qUa-VX-nFg"/>
+            </connections>
+            <point key="canvasLocation" x="157" y="197"/>
+        </tableViewCell>
+    </objects>
+</document>

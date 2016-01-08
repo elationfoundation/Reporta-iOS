@@ -1,0 +1,999 @@
+﻿
+[	   
+{	   
+"Title": "أفغانستان",	   
+"Identity": "AF"	   
+},	   
+{	   
+"Title": "جزر ألاند",	   
+"Identity": "AX"	   
+},	   
+{	   
+"Title": "ألبانيا",	   
+"Identity": "AL"	   
+},	   
+{	   
+"Title": "الجزائر",	   
+"Identity": "DZ"	   
+},	   
+{	   
+"Title": "ساموا الأمريكية",	   
+"Identity": "AS"	   
+},	   
+{	   
+"Title": "أندورا",	   
+"Identity": "AD"	   
+},	   
+{	   
+"Title": "أنغولا",	   
+"Identity": "AO"	   
+},	   
+{	   
+"Title": "أنغيلا",	   
+"Identity": "AI"	   
+},	   
+{	   
+"Title": "أنتاركتيكا",	   
+"Identity": "AQ"	   
+},	   
+{	   
+"Title": "أنتيغوا وباربودا",	   
+"Identity": "AG"	   
+},	   
+{	   
+"Title": "الأرجنتين",	   
+"Identity": "AR"	   
+},	   
+{	   
+"Title": "أرمينيا",	   
+"Identity": "AM"	   
+},	   
+{	   
+"Title": "أروبا",	   
+"Identity": "AW"	   
+},	   
+{	   
+"Title": "أستراليا",	   
+"Identity": "AU"	   
+},	   
+{	   
+"Title": "النمسا",	   
+"Identity": "AT"	   
+},	   
+{	   
+"Title": "أذربيجان",	   
+"Identity": "AZ"	   
+},	   
+{	   
+"Title": "البهاما",	   
+"Identity": "BS"	   
+},	   
+{	   
+"Title": "البحرين",	   
+"Identity": "BH"	   
+},	   
+{	   
+"Title": "بنغلاديش",	   
+"Identity": "BD"	   
+},	   
+{	   
+"Title": "بربادوس",	   
+"Identity": "BB"	   
+},	   
+{	   
+"Title": "بيلاروس",	   
+"Identity": "BY"	   
+},	   
+{	   
+"Title": "بلجيكا",	   
+"Identity": "BE"	   
+},	   
+{	   
+"Title": "بيليز",	   
+"Identity": "BZ"	   
+},	   
+{	   
+"Title": "بنين",	   
+"Identity": "BJ"	   
+},	   
+{	   
+"Title": "برمودا",	   
+"Identity": "BM"	   
+},	   
+{	   
+"Title": "بوتان",	   
+"Identity": "BT"	   
+},	   
+{	   
+"Title": "دولة بوليفيا المتعددة القوميات",	   
+"Identity": "BO"	   
+},	   
+{	   
+"Title": "بونير وسان يوستانيوس وسابا",	   
+"Identity": "BQ"	   
+},	   
+{	   
+"Title": "البوسنة والهرسك",	   
+"Identity": "BA"	   
+},	   
+{	   
+"Title": "بوتسوانا",	   
+"Identity": "BW"	   
+},	   
+{	   
+"Title": "جزيرة بوفيت",	   
+"Identity": "BV"	   
+},	   
+{	   
+"Title": "البرازيل",	   
+"Identity": "BR"	   
+},	   
+{	   
+"Title": "الإقليم البريطاني في المحيط الهندي",	   
+"Identity": "IO"	   
+},	   
+{	   
+"Title": "بروني دار السلام",	   
+"Identity": "BN"	   
+},	   
+{	   
+"Title": "بلغاريا",	   
+"Identity": "BG"	   
+},	   
+{	   
+"Title": "بوركينا فاسو",	   
+"Identity": "BF"	   
+},	   
+{	   
+"Title": "بوروندي",	   
+"Identity": "BI"	   
+},	   
+{	   
+"Title": "كمبوديا",	   
+"Identity": "KH"	   
+},	   
+{	   
+"Title": "الكاميرون",	   
+"Identity": "CM"	   
+},	   
+{	   
+"Title": "كندا",	   
+"Identity": "CA"	   
+},	   
+{	   
+"Title": "الرأس الأخضر",	   
+"Identity": "CV"	   
+},	   
+{	   
+"Title": "جزر كايمان",	   
+"Identity": "KY"	   
+},	   
+{	   
+"Title": "جمهورية أفريقيا الوسطى",	   
+"Identity": "CF"	   
+},	   
+{	   
+"Title": "تشاد",	   
+"Identity": "TD"	   
+},	   
+{	   
+"Title": "شيلي",	   
+"Identity": "CL"	   
+},	   
+{	   
+"Title": "الصين",	   
+"Identity": "CN"	   
+},	   
+{	   
+"Title": "جزيرة كريسماس",	   
+"Identity": "CX"	   
+},	   
+{	   
+"Title": "جزر كوكس (كيلينغ)",	   
+"Identity": "CC"	   
+},	   
+{	   
+"Title": "كولومبيا",	   
+"Identity": "CO"	   
+},	   
+{	   
+"Title": "جزر القمر",	   
+"Identity": "KM"	   
+},	   
+{	   
+"Title": "الكونغو",	   
+"Identity": "CG"	   
+},	   
+{	   
+"Title": "جمهورية الكونغو الديمقراطية",	   
+"Identity": "CD"	   
+},	   
+{	   
+"Title": "جزر كوك",	   
+"Identity": "CK"	   
+},	   
+{	   
+"Title": "كوستاريكا",	   
+"Identity": "CR"	   
+},	   
+{	   
+"Title": "كوت ديفوار",	   
+"Identity": "CI"	   
+},	   
+{	   
+"Title": "كرواتيا",	   
+"Identity": "HR"	   
+},	   
+{	   
+"Title": "كوبا",	   
+"Identity": "CU"	   
+},	   
+{	   
+"Title": "كوراساو",	   
+"Identity": "CW"	   
+},	   
+{	   
+"Title": "قبرص",	   
+"Identity": "CY"	   
+},	   
+{	   
+"Title": "جمهورية التشيك",	   
+"Identity": "CZ"	   
+},	   
+{	   
+"Title": "الدنمارك",	   
+"Identity": "DK"	   
+},	   
+{	   
+"Title": "جيبوتي",	   
+"Identity": "DJ"	   
+},	   
+{	   
+"Title": "دومينيكا",	   
+"Identity": "DM"	   
+},	   
+{	   
+"Title": "الجمهورية الدومينيكية",	   
+"Identity": "DO"	   
+},	   
+{	   
+"Title": "الإكوادور",	   
+"Identity": "EC"	   
+},	   
+{	   
+"Title": "مصر",	   
+"Identity": "EG"	   
+},	   
+{	   
+"Title": "السلفادور",	   
+"Identity": "SV"	   
+},	   
+{	   
+"Title": "غينيا الإستوائية",	   
+"Identity": "GQ"	   
+},	   
+{	   
+"Title": "إريتريا",	   
+"Identity": "ER"	   
+},	   
+{	   
+"Title": "إستونيا",	   
+"Identity": "EE"	   
+},	   
+{	   
+"Title": "أثيوبيا",	   
+"Identity": "ET"	   
+},	   
+{	   
+"Title": "جزر فوكلاند (مالفيناس)",	   
+"Identity": "FK"	   
+},	   
+{	   
+"Title": "جزر فارو",	   
+"Identity": "FO"	   
+},	   
+{	   
+"Title": "فيجي",	   
+"Identity": "FJ"	   
+},	   
+{	   
+"Title": "فنلندا",	   
+"Identity": "FI"	   
+},	   
+{	   
+"Title": "فرنسا",	   
+"Identity": "FR"	   
+},	   
+{	   
+"Title": "غيانا الفرنسية",	   
+"Identity": "GF"	   
+},	   
+{	   
+"Title": "بولينيزيا الفرنسية",	   
+"Identity": "PF"	   
+},	   
+{	   
+"Title": "المناطق الجنوبية الفرنسية",	   
+"Identity": "TF"	   
+},	   
+{	   
+"Title": "الغابون",	   
+"Identity": "GA"	   
+},	   
+{	   
+"Title": "غامبيا",	   
+"Identity": "GM"	   
+},	   
+{	   
+"Title": "جورجيا",	   
+"Identity": "GE"	   
+},	   
+{	   
+"Title": "ألمانيا",	   
+"Identity": "DE"	   
+},	   
+{	   
+"Title": "غانا",	   
+"Identity": "GH"	   
+},	   
+{	   
+"Title": "جبل طارق",	   
+"Identity": "GI"	   
+},	   
+{	   
+"Title": "اليونان",	   
+"Identity": "GR"	   
+},	   
+{	   
+"Title": "غرينلاند",	   
+"Identity": "GL"	   
+},	   
+{	   
+"Title": "غرينادا",	   
+"Identity": "GD"	   
+},	   
+{	   
+"Title": "غوادالوب",	   
+"Identity": "GP"	   
+},	   
+{	   
+"Title": "غوام",	   
+"Identity": "GU"	   
+},	   
+{	   
+"Title": "غواتيمالا",	   
+"Identity": "GT"	   
+},	   
+{	   
+"Title": "غيرنسي",	   
+"Identity": "GG"	   
+},	   
+{	   
+"Title": "غينيا",	   
+"Identity": "GN"	   
+},	   
+{	   
+"Title": "غينيا بيساو",	   
+"Identity": "GW"	   
+},	   
+{	   
+"Title": "غيانا",	   
+"Identity": "GY"	   
+},	   
+{	   
+"Title": "هايتي",	   
+"Identity": "HT"	   
+},	   
+{	   
+"Title": "جزيرة هيرد وجزر ماكدونالد",	   
+"Identity": "HM"	   
+},	   
+{	   
+"Title": "الكرسي الرسولي (دولة مدينة الفاتيكان)",	   
+"Identity": "VA"	   
+},	   
+{	   
+"Title": "هندوراس",	   
+"Identity": "HN"	   
+},	   
+{	   
+"Title": "هونغ كونغ",	   
+"Identity": "HK"	   
+},	   
+{	   
+"Title": "هنغاريا",	   
+"Identity": "HU"	   
+},	   
+{	   
+"Title": "آيسلندا",	   
+"Identity": "IS"	   
+},	   
+{	   
+"Title": "الهند",	   
+"Identity": "IN"	   
+},	   
+{	   
+"Title": "إندونيسيا",	   
+"Identity": "ID"	   
+},	   
+{	   
+"Title": "جمهورية إيران الإسلامية",	   
+"Identity": "IR"	   
+},	   
+{	   
+"Title": "العراق",	   
+"Identity": "IQ"	   
+},	   
+{	   
+"Title": "أيرلندا",	   
+"Identity": "IE"	   
+},	   
+{	   
+"Title": "جزيرة مان",	   
+"Identity": "IM"	   
+},	   
+{	   
+"Title": "إسرائيل",	   
+"Identity": "IL"	   
+},	   
+{	   
+"Title": "إيطاليا",	   
+"Identity": "IT"	   
+},	   
+{	   
+"Title": "جامايكا",	   
+"Identity": "JM"	   
+},	   
+{	   
+"Title": "اليابان",	   
+"Identity": "JP"	   
+},	   
+{	   
+"Title": "جيرسي",	   
+"Identity": "JE"	   
+},	   
+{	   
+"Title": "الأردن",	   
+"Identity": "JO"	   
+},	   
+{	   
+"Title": "كازاخستان",	   
+"Identity": "KZ"	   
+},	   
+{	   
+"Title": "كينيا",	   
+"Identity": "KE"	   
+},	   
+{	   
+"Title": "كيبريباس",	   
+"Identity": "KI"	   
+},	   
+{	   
+"Title": "جمهورية كوريا الشعبية الديمقراطية",	   
+"Identity": "KP"	   
+},	   
+{	   
+"Title": "جمهورية كوريا",	   
+"Identity": "KR"	   
+},	   
+{	   
+"Title": "الكويت",	   
+"Identity": "KW"	   
+},	   
+{	   
+"Title": "قير غيزستان",	   
+"Identity": "KG"	   
+},	   
+{	   
+"Title": "جمهورية لاو الديمقراطية الشعبية",	   
+"Identity": "LA"	   
+},	   
+{	   
+"Title": "لاتفيا",	   
+"Identity": "LV"	   
+},	   
+{	   
+"Title": "لبنان",	   
+"Identity": "LB"	   
+},	   
+{	   
+"Title": "ليسوتو",	   
+"Identity": "LS"	   
+},	   
+{	   
+"Title": "ليبيريا",	   
+"Identity": "LR"	   
+},	   
+{	   
+"Title": "ليبيا",	   
+"Identity": "LY"	   
+},	   
+{	   
+"Title": "ليختنشتاين",	   
+"Identity": "LI"	   
+},	   
+{	   
+"Title": "ليتوانيا",	   
+"Identity": "LT"	   
+},	   
+{	   
+"Title": "لكسمبرغ",	   
+"Identity": "LU"	   
+},	   
+{	   
+"Title": "ماكاو",	   
+"Identity": "MO"	   
+},	   
+{	   
+"Title": "جمهورية مقدونيا اليوغوسلافية سابقًا",	   
+"Identity": "MK"	   
+},	   
+{	   
+"Title": "مدغشقر",	   
+"Identity": "MG"	   
+},	   
+{	   
+"Title": "مالاوي",	   
+"Identity": "MW"	   
+},	   
+{	   
+"Title": "ماليزيا",	   
+"Identity": "MY"	   
+},	   
+{	   
+"Title": "ملديف",	   
+"Identity": "MV"	   
+},	   
+{	   
+"Title": "مالي",	   
+"Identity": "ML"	   
+},	   
+{	   
+"Title": "مالطا",	   
+"Identity": "MT"	   
+},	   
+{	   
+"Title": "جزر مارشال",	   
+"Identity": "MH"	   
+},	   
+{	   
+"Title": "مارتينيك",	   
+"Identity": "MQ"	   
+},	   
+{	   
+"Title": "موريتانيا",	   
+"Identity": "MR"	   
+},	   
+{	   
+"Title": "موريشيوس",	   
+"Identity": "MU"	   
+},	   
+{	   
+"Title": "مايوت",	   
+"Identity": "YT"	   
+},	   
+{	   
+"Title": "المكسيك",	   
+"Identity": "MX"	   
+},	   
+{	   
+"Title": "ولايات ميكرونيزيا الموحدة",	   
+"Identity": "FM"	   
+},	   
+{	   
+"Title": "جمهورية مولدوفا",	   
+"Identity": "MD"	   
+},	   
+{	   
+"Title": "موناكو",	   
+"Identity": "MC"	   
+},	   
+{	   
+"Title": "منغوليا",	   
+"Identity": "MN"	   
+},	   
+{	   
+"Title": "الجبل الأسود",	   
+"Identity": "ME"	   
+},	   
+{	   
+"Title": "مونتيسيرات",	   
+"Identity": "MS"	   
+},	   
+{	   
+"Title": "المغرب",	   
+"Identity": "MA"	   
+},	   
+{	   
+"Title": "موزمبيق",	   
+"Identity": "MZ"	   
+},	   
+{	   
+"Title": "ميانمار",	   
+"Identity": "MM"	   
+},	   
+{	   
+"Title": "ناميبيا",	   
+"Identity": "NA"	   
+},	   
+{	   
+"Title": "ناورو",	   
+"Identity": "NR"	   
+},	   
+{	   
+"Title": "نيبال",	   
+"Identity": "NP"	   
+},	   
+{	   
+"Title": "هولندا",	   
+"Identity": "NL"	   
+},	   
+{	   
+"Title": "كاليدونيا الجديدة",	   
+"Identity": "NC"	   
+},	   
+{	   
+"Title": "نيوزيلندا",	   
+"Identity": "NZ"	   
+},	   
+{	   
+"Title": "نيكاراغوا",	   
+"Identity": "NI"	   
+},	   
+{	   
+"Title": "النيغر",	   
+"Identity": "NE"	   
+},	   
+{	   
+"Title": "نيجيريا",	   
+"Identity": "NG"	   
+},	   
+{	   
+"Title": "نيوي",	   
+"Identity": "NU"	   
+},	   
+{	   
+"Title": "جزيرة نورفولك",	   
+"Identity": "NF"	   
+},	   
+{	   
+"Title": "جزر ماريانا الشمالية",	   
+"Identity": "MP"	   
+},	   
+{	   
+"Title": "النرويج",	   
+"Identity": "NO"	   
+},	   
+{	   
+"Title": "عمان",	   
+"Identity": "OM"	   
+},	   
+{	   
+"Title": "باكستان",	   
+"Identity": "PK"	   
+},	   
+{	   
+"Title": "بالاو",	   
+"Identity": "PW"	   
+},	   
+{	   
+"Title": "دولة فلسطين",	   
+"Identity": "PS"	   
+},	   
+{	   
+"Title": "بنما",	   
+"Identity": "PA"	   
+},	   
+{	   
+"Title": "بابوا غينيا الجديدة",	   
+"Identity": "PG"	   
+},	   
+{	   
+"Title": "باراغواي",	   
+"Identity": "PY"	   
+},	   
+{	   
+"Title": "بيرو",	   
+"Identity": "PE"	   
+},	   
+{	   
+"Title": "الفلبين",	   
+"Identity": "PH"	   
+},	   
+{	   
+"Title": "بيتكرن",	   
+"Identity": "PN"	   
+},	   
+{	   
+"Title": "بولندا",	   
+"Identity": "PL"	   
+},	   
+{	   
+"Title": "البرتغال",	   
+"Identity": "PT"	   
+},	   
+{	   
+"Title": "بورتوريكو",	   
+"Identity": "PR"	   
+},	   
+{	   
+"Title": "قطر",	   
+"Identity": "QA"	   
+},	   
+{	   
+"Title": "رينيون",	   
+"Identity": "RE"	   
+},	   
+{	   
+"Title": "رومانيا",	   
+"Identity": "RO"	   
+},	   
+{	   
+"Title": "الإتحاد الروسي",	   
+"Identity": "RU"	   
+},	   
+{	   
+"Title": "رواندا",	   
+"Identity": "RW"	   
+},	   
+{	   
+"Title": "سانت بارتليمي",	   
+"Identity": "BL"	   
+},	   
+{	   
+"Title": "سانت هيلانة",	   
+"Identity": "SH"	   
+},	   
+{	   
+"Title": "سانت كيتس ونيفس",	   
+"Identity": "KN"	   
+},	   
+{	   
+"Title": "سانت لوسيا",	   
+"Identity": "LC"	   
+},	   
+{	   
+"Title": "سانت مارتن (الجزء الفرنسي)",	   
+"Identity": "MF"	   
+},	   
+{	   
+"Title": "سانت بيير وميكلون",	   
+"Identity": "PM"	   
+},	   
+{	   
+"Title": "سانت فنسنت وغرينادين",	   
+"Identity": "VC"	   
+},	   
+{	   
+"Title": "ساموا",	   
+"Identity": "WS"	   
+},	   
+{	   
+"Title": "سان مارينو",	   
+"Identity": "SM"	   
+},	   
+{	   
+"Title": "سان تومي وبرنسيبي",	   
+"Identity": "ST"	   
+},	   
+{	   
+"Title": "المملكة العربية السعودية",	   
+"Identity": "SA"	   
+},	   
+{	   
+"Title": "السنغال",	   
+"Identity": "SN"	   
+},	   
+{	   
+"Title": "صربيا",	   
+"Identity": "RS"	   
+},	   
+{	   
+"Title": "سيشل",	   
+"Identity": "SC"	   
+},	   
+{	   
+"Title": "سيراليون",	   
+"Identity": "SL"	   
+},	   
+{	   
+"Title": "سنغافورة",	   
+"Identity": "SG"	   
+},	   
+{	   
+"Title": "سان مارتن (الجزء الهولندي)",	   
+"Identity": "SX"	   
+},	   
+{	   
+"Title": "سلوفاكيا",	   
+"Identity": "SK"	   
+},	   
+{	   
+"Title": "سلوفينيا",	   
+"Identity": "SI"	   
+},	   
+{	   
+"Title": "جزر سليمان",	   
+"Identity": "SB"	   
+},	   
+{	   
+"Title": "الصومال",	   
+"Identity": "SO"	   
+},	   
+{	   
+"Title": "جنوب أفريقيا",	   
+"Identity": "ZA"	   
+},	   
+{	   
+"Title": "جنوب جورجيا وجزر جنوب ساندوتش",	   
+"Identity": "GS"	   
+},	   
+{	   
+"Title": "جنوب السودان",	   
+"Identity": "SS"	   
+},	   
+{	   
+"Title": "أسبانيا",	   
+"Identity": "ES"	   
+},	   
+{	   
+"Title": "سريلانكا",	   
+"Identity": "LK"	   
+},	   
+{	   
+"Title": "السودان",	   
+"Identity": "SD"	   
+},	   
+{	   
+"Title": "سوارينام",	   
+"Identity": "SR"	   
+},	   
+{	   
+"Title": "سفالبارد وجان ماين",	   
+"Identity": "SJ"	   
+},	   
+{	   
+"Title": "سويسرا",	   
+"Identity": "SZ"	   
+},	   
+{	   
+"Title": "السويد",	   
+"Identity": "SE"	   
+},	   
+{	   
+"Title": "سويسرا",	   
+"Identity": "CH"	   
+},	   
+{	   
+"Title": "الجمهورية العربية السورية",	   
+"Identity": "SY"	   
+},	   
+{	   
+"Title": "إقليم تايوان الصيني",	   
+"Identity": "TW"	   
+},	   
+{	   
+"Title": "طاجيكستان",	   
+"Identity": "TJ"	   
+},	   
+{	   
+"Title": "جمهورية تنزانيا المتحدة",	   
+"Identity": "TZ"	   
+},	   
+{	   
+"Title": "تايلاند",	   
+"Identity": "TH"	   
+},	   
+{	   
+"Title": "تيمور-ليشتي",	   
+"Identity": "TL"	   
+},	   
+{	   
+"Title": "توغو",	   
+"Identity": "TG"	   
+},	   
+{	   
+"Title": "توكيلاو",	   
+"Identity": "TK"	   
+},	   
+{	   
+"Title": "تونغا",	   
+"Identity": "TO"	   
+},	   
+{	   
+"Title": "ترينيداد وتوباغو",	   
+"Identity": "TT"	   
+},	   
+{	   
+"Title": "تونس",	   
+"Identity": "TN"	   
+},	   
+{	   
+"Title": "تركيا",	   
+"Identity": "TR"	   
+},	   
+{	   
+"Title": "تركمانستان",	   
+"Identity": "TM"	   
+},	   
+{	   
+"Title": "جزر تركس وكايكوس",	   
+"Identity": "TC"	   
+},	   
+{	   
+"Title": "توفالو",	   
+"Identity": "TV"	   
+},	   
+{	   
+"Title": "أوغندا",	   
+"Identity": "UG"	   
+},	   
+{	   
+"Title": "أوكرانيا",	   
+"Identity": "UA"	   
+},	   
+{	   
+"Title": "الإمارات العربية المتحدة",	   
+"Identity": "AE"	   
+},	   
+{	   
+"Title": "المملكة المتحدة",	   
+"Identity": "GB"	   
+},	   
+{	   
+"Title": "الولايات المتحدة",	   
+"Identity": "US"	   
+},	   
+{	   
+"Title": "الجزر الصغيرة النائية التابعة للولايات المتحدة",	   
+"Identity": "UM"	   
+},	   
+{	   
+"Title": "أوروغواي",	   
+"Identity": "UY"	   
+},	   
+{	   
+"Title": "أوزباكستان",	   
+"Identity": "UZ"	   
+},	   
+{	   
+"Title": "فانواتو",	   
+"Identity": "VU"	   
+},	   
+{	   
+"Title": "جمهورية فنزويلا البوليفارية",	   
+"Identity": "VE"	   
+},	   
+{	   
+"Title": "فيتنام",	   
+"Identity": "VN"	   
+},	   
+{	   
+"Title": "جزر فرجن البريطانية",	   
+"Identity": "VG"	   
+},	   
+{	   
+"Title": "جزر فرجن الأمريكية",	   
+"Identity": "VI"	   
+},	   
+{	   
+"Title": "واليس وفوتونا",	   
+"Identity": "WF"	   
+},	   
+{	   
+"Title": "الصحراء الغربية",	   
+"Identity": "EH"	   
+},	   
+{	   
+"Title": "اليمن",	   
+"Identity": "YE"	   
+},	   
+{	   
+"Title": "زامبيا",	   
+"Identity": "ZM"	   
+},	   
+{	   
+"Title": "زيمبابوي",
+"Identity": "ZW"	   
+}	   
+]	 

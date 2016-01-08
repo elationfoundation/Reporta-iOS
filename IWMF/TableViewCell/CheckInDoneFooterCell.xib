@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="7706" systemVersion="14E46" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="7703"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="CheckInDoneCellIdentifier" rowHeight="249" id="7u4-wc-gti" customClass="CheckInDoneFooterCell" customModule="IWMF" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="400" height="161"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="7u4-wc-gti" id="w36-D8-e2t">
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="aLN-5Z-PSB">
+                        <rect key="frame" x="-23" y="-15" width="46" height="30"/>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="44" id="8T4-T5-mbE"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" name="Helvetica" family="Helvetica" pointSize="17"/>
+                        <state key="normal" title="Confirm Now" backgroundImage="bg-button">
+                            <color key="titleColor" red="0.96078437569999997" green="0.36470589040000001" blue="0.1215686351" alpha="1" colorSpace="deviceRGB"/>
+                            <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                        </state>
+                        <variation key="default">
+                            <mask key="constraints">
+                                <exclude reference="8T4-T5-mbE"/>
+                            </mask>
+                        </variation>
+                        <variation key="heightClass=regular-widthClass=compact">
+                            <mask key="constraints">
+                                <include reference="8T4-T5-mbE"/>
+                            </mask>
+                        </variation>
+                        <connections>
+                            <action selector="btnConfirmCheckInClicked:" destination="7u4-wc-gti" eventType="touchUpInside" id="27L-Ya-00r"/>
+                        </connections>
+                    </button>
+                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Urm-Hl-JaE">
+                        <rect key="frame" x="-23" y="-15" width="46" height="30"/>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                        <fontDescription key="fontDescription" name="Helvetica" family="Helvetica" pointSize="17"/>
+                        <state key="normal" title="Save" backgroundImage="button-bg-gray">
+                            <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                            <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                        </state>
+                        <connections>
+                            <action selector="btnStartNowClicked:" destination="7u4-wc-gti" eventType="touchUpInside" id="YS8-bi-6Yi"/>
+                        </connections>
+                    </button>
+                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="MsZ-HF-IpV">
+                        <rect key="frame" x="-23" y="-15" width="46" height="30"/>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                        <fontDescription key="fontDescription" name="Helvetica" family="Helvetica" pointSize="17"/>
+                        <state key="normal" title="Close Now" backgroundImage="button-bg-gray">
+                            <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                            <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                        </state>
+                        <connections>
+                            <action selector="btnCancelCheckInClicked:" destination="7u4-wc-gti" eventType="touchUpInside" id="zuJ-6a-mxK"/>
+                        </connections>
+                    </button>
+                </subviews>
+                <color key="backgroundColor" red="0.93725496529999996" green="0.93725496529999996" blue="0.93725496529999996" alpha="1" colorSpace="deviceRGB"/>
+                <constraints>
+                    <constraint firstItem="MsZ-HF-IpV" firstAttribute="top" secondItem="Urm-Hl-JaE" secondAttribute="bottom" constant="18" id="AzM-Tu-NXm"/>
+                    <constraint firstItem="MsZ-HF-IpV" firstAttribute="leading" secondItem="w36-D8-e2t" secondAttribute="leading" constant="18" id="MJ5-HA-Ld5"/>
+                    <constraint firstItem="Urm-Hl-JaE" firstAttribute="top" secondItem="aLN-5Z-PSB" secondAttribute="bottom" constant="18" id="QTG-c6-8iP"/>
+                    <constraint firstItem="aLN-5Z-PSB" firstAttribute="leading" secondItem="w36-D8-e2t" secondAttribute="leading" constant="18" id="a8p-Mg-oeS"/>
+                    <constraint firstItem="Urm-Hl-JaE" firstAttribute="leading" secondItem="w36-D8-e2t" secondAttribute="leading" constant="18" id="dmL-ZU-5WM"/>
+                    <constraint firstItem="aLN-5Z-PSB" firstAttribute="top" secondItem="w36-D8-e2t" secondAttribute="top" constant="18" id="dnc-Vr-kLe"/>
+                    <constraint firstItem="Urm-Hl-JaE" firstAttribute="height" secondItem="aLN-5Z-PSB" secondAttribute="height" id="ek8-MJ-X2K"/>
+                    <constraint firstAttribute="trailing" secondItem="Urm-Hl-JaE" secondAttribute="trailing" constant="18" id="m56-2v-ugw"/>
+                    <constraint firstAttribute="trailing" secondItem="aLN-5Z-PSB" secondAttribute="trailing" constant="18" id="ovh-ru-hsv"/>
+                    <constraint firstAttribute="trailing" secondItem="MsZ-HF-IpV" secondAttribute="trailing" constant="18" id="rrI-Zb-mBs"/>
+                    <constraint firstItem="Urm-Hl-JaE" firstAttribute="height" secondItem="MsZ-HF-IpV" secondAttribute="height" id="tPb-AG-jfS"/>
+                </constraints>
+                <variation key="default">
+                    <mask key="subviews">
+                        <exclude reference="aLN-5Z-PSB"/>
+                        <exclude reference="Urm-Hl-JaE"/>
+                        <exclude reference="MsZ-HF-IpV"/>
+                    </mask>
+                    <mask key="constraints">
+                        <exclude reference="AzM-Tu-NXm"/>
+                        <exclude reference="MJ5-HA-Ld5"/>
+                        <exclude reference="rrI-Zb-mBs"/>
+                        <exclude reference="QTG-c6-8iP"/>
+                        <exclude reference="dmL-ZU-5WM"/>
+                        <exclude reference="ek8-MJ-X2K"/>
+                        <exclude reference="m56-2v-ugw"/>
+                        <exclude reference="tPb-AG-jfS"/>
+                        <exclude reference="a8p-Mg-oeS"/>
+                        <exclude reference="dnc-Vr-kLe"/>
+                        <exclude reference="ovh-ru-hsv"/>
+                    </mask>
+                </variation>
+                <variation key="heightClass=regular-widthClass=compact">
+                    <mask key="subviews">
+                        <include reference="aLN-5Z-PSB"/>
+                        <include reference="Urm-Hl-JaE"/>
+                        <include reference="MsZ-HF-IpV"/>
+                    </mask>
+                    <mask key="constraints">
+                        <include reference="AzM-Tu-NXm"/>
+                        <include reference="MJ5-HA-Ld5"/>
+                        <include reference="rrI-Zb-mBs"/>
+                        <include reference="QTG-c6-8iP"/>
+                        <include reference="dmL-ZU-5WM"/>
+                        <include reference="ek8-MJ-X2K"/>
+                        <include reference="m56-2v-ugw"/>
+                        <include reference="tPb-AG-jfS"/>
+                        <include reference="a8p-Mg-oeS"/>
+                        <include reference="dnc-Vr-kLe"/>
+                        <include reference="ovh-ru-hsv"/>
+                    </mask>
+                </variation>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="btnCancelCheckIN" destination="MsZ-HF-IpV" id="Sta-V3-REl"/>
+                <outlet property="btnConfirmCheckIN" destination="aLN-5Z-PSB" id="rlj-ll-AfP"/>
+                <outlet property="btnDone" destination="Urm-Hl-JaE" id="T0l-Rw-pml"/>
+            </connections>
+            <point key="canvasLocation" x="270" y="268"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="bg-button" width="326" height="49"/>
+        <image name="button-bg-gray" width="326" height="49"/>
+    </resources>
+</document>

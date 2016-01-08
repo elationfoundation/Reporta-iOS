@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="9059" systemVersion="15B42" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9049"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="nextFooterCellIdentifier" rowHeight="80" id="KGk-i7-Jjw" userLabel="NextFooterCellIdentifier" customClass="NextFooterTableViewCell" customModule="IWMF" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="43"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="YD8-dF-HJA">
+                        <rect key="frame" x="-23" y="-15" width="46" height="30"/>
+                        <animations/>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                        <state key="normal" title="Next" backgroundImage="bg-button">
+                            <color key="titleColor" red="0.95686274510000002" green="0.27450980390000002" blue="0.047058823530000002" alpha="1" colorSpace="calibratedRGB"/>
+                            <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                        </state>
+                        <connections>
+                            <action selector="nextBtnClicked:" destination="KGk-i7-Jjw" eventType="touchUpInside" id="xor-Hp-ghc"/>
+                        </connections>
+                    </button>
+                </subviews>
+                <animations/>
+                <color key="backgroundColor" red="0.93725496529999996" green="0.93725496529999996" blue="0.93725496529999996" alpha="1" colorSpace="deviceRGB"/>
+                <constraints>
+                    <constraint firstAttribute="bottom" secondItem="YD8-dF-HJA" secondAttribute="bottom" constant="17" id="TLd-Y3-5oI"/>
+                    <constraint firstAttribute="trailing" secondItem="YD8-dF-HJA" secondAttribute="trailing" constant="18" id="jbB-uw-HpM"/>
+                    <constraint firstItem="YD8-dF-HJA" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="18" id="y4s-cn-Jkc"/>
+                    <constraint firstItem="YD8-dF-HJA" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="18" id="zVH-cx-Z84"/>
+                </constraints>
+                <variation key="default">
+                    <mask key="subviews">
+                        <exclude reference="YD8-dF-HJA"/>
+                    </mask>
+                    <mask key="constraints">
+                        <exclude reference="TLd-Y3-5oI"/>
+                        <exclude reference="jbB-uw-HpM"/>
+                        <exclude reference="y4s-cn-Jkc"/>
+                        <exclude reference="zVH-cx-Z84"/>
+                    </mask>
+                </variation>
+                <variation key="heightClass=regular-widthClass=compact">
+                    <mask key="subviews">
+                        <include reference="YD8-dF-HJA"/>
+                    </mask>
+                    <mask key="constraints">
+                        <include reference="TLd-Y3-5oI"/>
+                        <include reference="jbB-uw-HpM"/>
+                        <include reference="y4s-cn-Jkc"/>
+                        <include reference="zVH-cx-Z84"/>
+                    </mask>
+                </variation>
+            </tableViewCellContentView>
+            <animations/>
+            <connections>
+                <outlet property="nextBtn" destination="YD8-dF-HJA" id="X2Y-9u-Dfa"/>
+            </connections>
+            <point key="canvasLocation" x="334" y="176"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="bg-button" width="326" height="49"/>
+    </resources>
+</document>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Title</key>
+		<string>Email message</string>
+		<key>CellIdentifier</key>
+		<string>CheckInAlertMessageCellIdentifier</string>
+		<key>Identity</key>
+		<string>Email</string>
+		<key>RowHeight</key>
+		<integer>170</integer>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>SMS message</string>
+		<key>CellIdentifier</key>
+		<string>CheckInAlertMessageCellIdentifier</string>
+		<key>Identity</key>
+		<string>SMS</string>
+		<key>RowHeight</key>
+		<integer>170</integer>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Social media message</string>
+		<key>CellIdentifier</key>
+		<string>CheckInAlertMessageCellIdentifier</string>
+		<key>Identity</key>
+		<string>SocialMedia</string>
+		<key>RowHeight</key>
+		<integer>170</integer>
+	</dict>
+</array>
+</plist>

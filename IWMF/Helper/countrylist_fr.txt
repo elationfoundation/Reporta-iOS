@@ -1,0 +1,999 @@
+﻿
+[	   
+{	   
+"Title": "Afghanistan",	   
+"Identity": "AF"	   
+},	   
+{	   
+"Title": "Îles d'Aland",	   
+"Identity": "AX"	   
+},	   
+{	   
+"Title": "Albanie",	   
+"Identity": "AL"	   
+},	   
+{	   
+"Title": "Algérie",	   
+"Identity": "DZ"	   
+},	   
+{	   
+"Title": "Samoa américaines",	   
+"Identity": "AS"	   
+},	   
+{	   
+"Title": "Andorre",	   
+"Identity": "AD"	   
+},	   
+{	   
+"Title": "Angola",	   
+"Identity": "AO"	   
+},	   
+{	   
+"Title": "Anguilla",	   
+"Identity": "AI"	   
+},	   
+{	   
+"Title": "Antarctique",	   
+"Identity": "AQ"	   
+},	   
+{	   
+"Title": "Antigua-et-Barbuda",	   
+"Identity": "AG"	   
+},	   
+{	   
+"Title": "Argentine",	   
+"Identity": "AR"	   
+},	   
+{	   
+"Title": "Arménie",	   
+"Identity": "AM"	   
+},	   
+{	   
+"Title": "Aruba",	   
+"Identity": "AW"	   
+},	   
+{	   
+"Title": "Australie",	   
+"Identity": "AU"	   
+},	   
+{	   
+"Title": "Autriche",	   
+"Identity": "AT"	   
+},	   
+{	   
+"Title": "Azerbaïdjan",	   
+"Identity": "AZ"	   
+},	   
+{	   
+"Title": "Bahamas",	   
+"Identity": "BS"	   
+},	   
+{	   
+"Title": "Bahreïn",	   
+"Identity": "BH"	   
+},	   
+{	   
+"Title": "Bangladesh",	   
+"Identity": "BD"	   
+},	   
+{	   
+"Title": "La Barbade",	   
+"Identity": "BB"	   
+},	   
+{	   
+"Title": "Biélorussie",	   
+"Identity": "BY"	   
+},	   
+{	   
+"Title": "Belgique",	   
+"Identity": "BE"	   
+},	   
+{	   
+"Title": "Belize",	   
+"Identity": "BZ"	   
+},	   
+{	   
+"Title": "Bénin",	   
+"Identity": "BJ"	   
+},	   
+{	   
+"Title": "Bermudes",	   
+"Identity": "BM"	   
+},	   
+{	   
+"Title": "Bhoutan",	   
+"Identity": "BT"	   
+},	   
+{	   
+"Title": "Bolivie, État plurinational de",	   
+"Identity": "BO"	   
+},	   
+{	   
+"Title": "Bonaire, Saint-Eustache et Saba",	   
+"Identity": "BQ"	   
+},	   
+{	   
+"Title": "Bosnie-Herzégovine",	   
+"Identity": "BA"	   
+},	   
+{	   
+"Title": "Botswana",	   
+"Identity": "BW"	   
+},	   
+{	   
+"Title": "Île Bouvet",	   
+"Identity": "BV"	   
+},	   
+{	   
+"Title": "Brésil",	   
+"Identity": "BR"	   
+},	   
+{	   
+"Title": "Territoire britannique de l'océan Indien",	   
+"Identity": "IO"	   
+},	   
+{	   
+"Title": "Brunéi Darussalam",	   
+"Identity": "BN"	   
+},	   
+{	   
+"Title": "Bulgarie",	   
+"Identity": "BG"	   
+},	   
+{	   
+"Title": "Burkina Faso",	   
+"Identity": "BF"	   
+},	   
+{	   
+"Title": "Burundi",	   
+"Identity": "BI"	   
+},	   
+{	   
+"Title": "Cambodge",	   
+"Identity": "KH"	   
+},	   
+{	   
+"Title": "Cameroun",	   
+"Identity": "CM"	   
+},	   
+{	   
+"Title": "Canada",	   
+"Identity": "CA"	   
+},	   
+{	   
+"Title": "Cap-Vert",	   
+"Identity": "CV"	   
+},	   
+{	   
+"Title": "Îles Caïman",	   
+"Identity": "KY"	   
+},	   
+{	   
+"Title": "République centrafricaine",	   
+"Identity": "CF"	   
+},	   
+{	   
+"Title": "Tchad",	   
+"Identity": "TD"	   
+},	   
+{	   
+"Title": "Chili",	   
+"Identity": "CL"	   
+},	   
+{	   
+"Title": "Chine",	   
+"Identity": "CN"	   
+},	   
+{	   
+"Title": "Île Christmas",	   
+"Identity": "CX"	   
+},	   
+{	   
+"Title": "Îles Cocos (Keeling)",	   
+"Identity": "CC"	   
+},	   
+{	   
+"Title": "Colombie",	   
+"Identity": "CO"	   
+},	   
+{	   
+"Title": "Comores",	   
+"Identity": "KM"	   
+},	   
+{	   
+"Title": "Congo",	   
+"Identity": "CG"	   
+},	   
+{	   
+"Title": "Congo, République démocratique du",	   
+"Identity": "CD"	   
+},	   
+{	   
+"Title": "Îles Cook",	   
+"Identity": "CK"	   
+},	   
+{	   
+"Title": "Costa Rica",	   
+"Identity": "CR"	   
+},	   
+{	   
+"Title": "Côte d'Ivoire",	   
+"Identity": "CI"	   
+},	   
+{	   
+"Title": "Croatie",	   
+"Identity": "HR"	   
+},	   
+{	   
+"Title": "Cuba",	   
+"Identity": "CU"	   
+},	   
+{	   
+"Title": "Curaçao",	   
+"Identity": "CW"	   
+},	   
+{	   
+"Title": "Chypre",	   
+"Identity": "CY"	   
+},	   
+{	   
+"Title": "République tchèque",	   
+"Identity": "CZ"	   
+},	   
+{	   
+"Title": "Danemark",	   
+"Identity": "DK"	   
+},	   
+{	   
+"Title": "Djibouti",	   
+"Identity": "DJ"	   
+},	   
+{	   
+"Title": "Dominique",	   
+"Identity": "DM"	   
+},	   
+{	   
+"Title": "République dominicaine",	   
+"Identity": "DO"	   
+},	   
+{	   
+"Title": "Équateur",	   
+"Identity": "EC"	   
+},	   
+{	   
+"Title": "Égypte",	   
+"Identity": "EG"	   
+},	   
+{	   
+"Title": "Salvador",	   
+"Identity": "SV"	   
+},	   
+{	   
+"Title": "Guinée équatoriale",	   
+"Identity": "GQ"	   
+},	   
+{	   
+"Title": "Érythrée",	   
+"Identity": "ER"	   
+},	   
+{	   
+"Title": "Estonie",	   
+"Identity": "EE"	   
+},	   
+{	   
+"Title": "Éthiopie",	   
+"Identity": "ET"	   
+},	   
+{	   
+"Title": "Îles Malouines",	   
+"Identity": "FK"	   
+},	   
+{	   
+"Title": "Îles Féroé",	   
+"Identity": "FO"	   
+},	   
+{	   
+"Title": "Fidji",	   
+"Identity": "FJ"	   
+},	   
+{	   
+"Title": "Finlande",	   
+"Identity": "FI"	   
+},	   
+{	   
+"Title": "France",	   
+"Identity": "FR"	   
+},	   
+{	   
+"Title": "Guyane française",	   
+"Identity": "GF"	   
+},	   
+{	   
+"Title": "Polynésie française",	   
+"Identity": "PF"	   
+},	   
+{	   
+"Title": "Terres australes françaises",	   
+"Identity": "TF"	   
+},	   
+{	   
+"Title": "Gabon",	   
+"Identity": "GA"	   
+},	   
+{	   
+"Title": "Gambie",	   
+"Identity": "GM"	   
+},	   
+{	   
+"Title": "Géorgie",	   
+"Identity": "GE"	   
+},	   
+{	   
+"Title": "Allemagne",	   
+"Identity": "DE"	   
+},	   
+{	   
+"Title": "Ghana",	   
+"Identity": "GH"	   
+},	   
+{	   
+"Title": "Gibraltar",	   
+"Identity": "GI"	   
+},	   
+{	   
+"Title": "Grèce",	   
+"Identity": "GR"	   
+},	   
+{	   
+"Title": "Groenland",	   
+"Identity": "GL"	   
+},	   
+{	   
+"Title": "Grenade",	   
+"Identity": "GD"	   
+},	   
+{	   
+"Title": "Guadeloupe",	   
+"Identity": "GP"	   
+},	   
+{	   
+"Title": "Guam",	   
+"Identity": "GU"	   
+},	   
+{	   
+"Title": "Guatemala",	   
+"Identity": "GT"	   
+},	   
+{	   
+"Title": "Guernesey",	   
+"Identity": "GG"	   
+},	   
+{	   
+"Title": "Guinée",	   
+"Identity": "GN"	   
+},	   
+{	   
+"Title": "Guinée-Bissau",	   
+"Identity": "GW"	   
+},	   
+{	   
+"Title": "Guyana",	   
+"Identity": "GY"	   
+},	   
+{	   
+"Title": "Haïti",	   
+"Identity": "HT"	   
+},	   
+{	   
+"Title": "Îles Heard-et-MacDonald",	   
+"Identity": "HM"	   
+},	   
+{	   
+"Title": "Vatican",	   
+"Identity": "VA"	   
+},	   
+{	   
+"Title": "Honduras",	   
+"Identity": "HN"	   
+},	   
+{	   
+"Title": "Hong Kong",	   
+"Identity": "HK"	   
+},	   
+{	   
+"Title": "Hongrie",	   
+"Identity": "HU"	   
+},	   
+{	   
+"Title": "Islande",	   
+"Identity": "IS"	   
+},	   
+{	   
+"Title": "Inde",	   
+"Identity": "IN"	   
+},	   
+{	   
+"Title": "Indonésie",	   
+"Identity": "ID"	   
+},	   
+{	   
+"Title": "Iran, République islamique d'",	   
+"Identity": "IR"	   
+},	   
+{	   
+"Title": "Irak",	   
+"Identity": "IQ"	   
+},	   
+{	   
+"Title": "Irlande",	   
+"Identity": "IE"	   
+},	   
+{	   
+"Title": "Île de Man",	   
+"Identity": "IM"	   
+},	   
+{	   
+"Title": "Israël",	   
+"Identity": "IL"	   
+},	   
+{	   
+"Title": "Italie",	   
+"Identity": "IT"	   
+},	   
+{	   
+"Title": "Jamaïque",	   
+"Identity": "JM"	   
+},	   
+{	   
+"Title": "Japon",	   
+"Identity": "JP"	   
+},	   
+{	   
+"Title": "Jersey",	   
+"Identity": "JE"	   
+},	   
+{	   
+"Title": "Jordanie",	   
+"Identity": "JO"	   
+},	   
+{	   
+"Title": "Kazakhstan",	   
+"Identity": "KZ"	   
+},	   
+{	   
+"Title": "Kenya",	   
+"Identity": "KE"	   
+},	   
+{	   
+"Title": "Kiribati",	   
+"Identity": "KI"	   
+},	   
+{	   
+"Title": "Corée, République démocratique de",	   
+"Identity": "KP"	   
+},	   
+{	   
+"Title": "Corée, République de",	   
+"Identity": "KR"	   
+},	   
+{	   
+"Title": "Koweït",	   
+"Identity": "KW"	   
+},	   
+{	   
+"Title": "Kirghizstan",	   
+"Identity": "KG"	   
+},	   
+{	   
+"Title": "République démocratique populaire du Laos",	   
+"Identity": "LA"	   
+},	   
+{	   
+"Title": "Lettonie",	   
+"Identity": "LV"	   
+},	   
+{	   
+"Title": "Liban",	   
+"Identity": "LB"	   
+},	   
+{	   
+"Title": "Lesotho",	   
+"Identity": "LS"	   
+},	   
+{	   
+"Title": "Libéria",	   
+"Identity": "LR"	   
+},	   
+{	   
+"Title": "Libye",	   
+"Identity": "LY"	   
+},	   
+{	   
+"Title": "Liechtenstein",	   
+"Identity": "LI"	   
+},	   
+{	   
+"Title": "Lituanie",	   
+"Identity": "LT"	   
+},	   
+{	   
+"Title": "Luxembourg",	   
+"Identity": "LU"	   
+},	   
+{	   
+"Title": "Macao",	   
+"Identity": "MO"	   
+},	   
+{	   
+"Title": "Macédoine, Ancienne République Yougoslave de",	   
+"Identity": "MK"	   
+},	   
+{	   
+"Title": "Madagascar",	   
+"Identity": "MG"	   
+},	   
+{	   
+"Title": "Malawi",	   
+"Identity": "MW"	   
+},	   
+{	   
+"Title": "Malaisie",	   
+"Identity": "MY"	   
+},	   
+{	   
+"Title": "Maldives",	   
+"Identity": "MV"	   
+},	   
+{	   
+"Title": "Mali",	   
+"Identity": "ML"	   
+},	   
+{	   
+"Title": "Malte",	   
+"Identity": "MT"	   
+},	   
+{	   
+"Title": "Îles Marshall",	   
+"Identity": "MH"	   
+},	   
+{	   
+"Title": "Martinique",	   
+"Identity": "MQ"	   
+},	   
+{	   
+"Title": "Mauritanie",	   
+"Identity": "MR"	   
+},	   
+{	   
+"Title": "Maurice",	   
+"Identity": "MU"	   
+},	   
+{	   
+"Title": "Mayotte",	   
+"Identity": "YT"	   
+},	   
+{	   
+"Title": "Mexique",	   
+"Identity": "MX"	   
+},	   
+{	   
+"Title": "Micronésie, Micronésie (États fédérés de Micronésie)",	   
+"Identity": "FM"	   
+},	   
+{	   
+"Title": "Moldavie, République de",	   
+"Identity": "MD"	   
+},	   
+{	   
+"Title": "Monaco",	   
+"Identity": "MC"	   
+},	   
+{	   
+"Title": "Mongolie",	   
+"Identity": "MN"	   
+},	   
+{	   
+"Title": "Monténégro",	   
+"Identity": "ME"	   
+},	   
+{	   
+"Title": "Montserrat",	   
+"Identity": "MS"	   
+},	   
+{	   
+"Title": "Maroc",	   
+"Identity": "MA"	   
+},	   
+{	   
+"Title": "Mozambique",	   
+"Identity": "MZ"	   
+},	   
+{	   
+"Title": "Myanmar",	   
+"Identity": "MM"	   
+},	   
+{	   
+"Title": "Namibie",	   
+"Identity": "NA"	   
+},	   
+{	   
+"Title": "Nauru",	   
+"Identity": "NR"	   
+},	   
+{	   
+"Title": "Népal",	   
+"Identity": "NP"	   
+},	   
+{	   
+"Title": "Pays-Bas",	   
+"Identity": "NL"	   
+},	   
+{	   
+"Title": "Nouvelle-Calédonie",	   
+"Identity": "NC"	   
+},	   
+{	   
+"Title": "Nouvelle-Zélande",	   
+"Identity": "NZ"	   
+},	   
+{	   
+"Title": "Nicaragua",	   
+"Identity": "NI"	   
+},	   
+{	   
+"Title": "Niger",	   
+"Identity": "NE"	   
+},	   
+{	   
+"Title": "Nigéria",	   
+"Identity": "NG"	   
+},	   
+{	   
+"Title": "Nioué",	   
+"Identity": "NU"	   
+},	   
+{	   
+"Title": "Île Norfolk",	   
+"Identity": "NF"	   
+},	   
+{	   
+"Title": "Îles Mariannes du Nord",	   
+"Identity": "MP"	   
+},	   
+{	   
+"Title": "Norvège",	   
+"Identity": "NO"	   
+},	   
+{	   
+"Title": "Oman",	   
+"Identity": "OM"	   
+},	   
+{	   
+"Title": "Pakistan",	   
+"Identity": "PK"	   
+},	   
+{	   
+"Title": "Palaos",	   
+"Identity": "PW"	   
+},	   
+{	   
+"Title": "Palestine, État",	   
+"Identity": "PS"	   
+},	   
+{	   
+"Title": "Panama",	   
+"Identity": "PA"	   
+},	   
+{	   
+"Title": "Papouasie-Nouvelle-Guinée",	   
+"Identity": "PG"	   
+},	   
+{	   
+"Title": "Paraguay",	   
+"Identity": "PY"	   
+},	   
+{	   
+"Title": "Pérou",	   
+"Identity": "PE"	   
+},	   
+{	   
+"Title": "Philippines",	   
+"Identity": "PH"	   
+},	   
+{	   
+"Title": "Pitcairn",	   
+"Identity": "PN"	   
+},	   
+{	   
+"Title": "Pologne",	   
+"Identity": "PL"	   
+},	   
+{	   
+"Title": "Portugal",	   
+"Identity": "PT"	   
+},	   
+{	   
+"Title": "Porto Rico",	   
+"Identity": "PR"	   
+},	   
+{	   
+"Title": "Qatar",	   
+"Identity": "QA"	   
+},	   
+{	   
+"Title": "Île de la Réunion",	   
+"Identity": "RE"	   
+},	   
+{	   
+"Title": "Roumanie",	   
+"Identity": "RO"	   
+},	   
+{	   
+"Title": "Russie",	   
+"Identity": "RU"	   
+},	   
+{	   
+"Title": "Rwanda",	   
+"Identity": "RW"	   
+},	   
+{	   
+"Title": "Saint-Barthélemy",	   
+"Identity": "BL"	   
+},	   
+{	   
+"Title": "Sainte-Hélène, Ascension et Tristan da Cunha",	   
+"Identity": "SH"	   
+},	   
+{	   
+"Title": "Saint-Christophe-et-Niévès",	   
+"Identity": "KN"	   
+},	   
+{	   
+"Title": "Sainte-Lucie",	   
+"Identity": "LC"	   
+},	   
+{	   
+"Title": "Saint-Martin (Antilles françaises)",	   
+"Identity": "MF"	   
+},	   
+{	   
+"Title": "Saint-Pierre-et-Miquelon",	   
+"Identity": "PM"	   
+},	   
+{	   
+"Title": "Saint-Vincent-et-les-Grenadines",	   
+"Identity": "VC"	   
+},	   
+{	   
+"Title": "Samoa",	   
+"Identity": "WS"	   
+},	   
+{	   
+"Title": "Saint-Marin",	   
+"Identity": "SM"	   
+},	   
+{	   
+"Title": "São Tomé-et-Principe",	   
+"Identity": "ST"	   
+},	   
+{	   
+"Title": "Arabie saoudite",	   
+"Identity": "SA"	   
+},	   
+{	   
+"Title": "Sénégal",	   
+"Identity": "SN"	   
+},	   
+{	   
+"Title": "Serbie",	   
+"Identity": "RS"	   
+},	   
+{	   
+"Title": "Seychelles",	   
+"Identity": "SC"	   
+},	   
+{	   
+"Title": "Sierra Leone",	   
+"Identity": "SL"	   
+},	   
+{	   
+"Title": "Singapour",	   
+"Identity": "SG"	   
+},	   
+{	   
+"Title": "Saint-Martin (Royaume des Pays-Bas) ",	   
+"Identity": "SX"	   
+},	   
+{	   
+"Title": "Slovaquie",	   
+"Identity": "SK"	   
+},	   
+{	   
+"Title": "Slovénie",	   
+"Identity": "SI"	   
+},	   
+{	   
+"Title": "Îles Salomon",	   
+"Identity": "SB"	   
+},	   
+{	   
+"Title": "Somalie",	   
+"Identity": "SO"	   
+},	   
+{	   
+"Title": "Afrique du Sud",	   
+"Identity": "ZA"	   
+},	   
+{	   
+"Title": "Géorgie du Sud et îles Sandwich du Sud",	   
+"Identity": "GS"	   
+},	   
+{	   
+"Title": "Soudan du sud",	   
+"Identity": "SS"	   
+},	   
+{	   
+"Title": "Espagne",	   
+"Identity": "ES"	   
+},	   
+{	   
+"Title": "Sri Lanka",	   
+"Identity": "LK"	   
+},	   
+{	   
+"Title": "Soudan",	   
+"Identity": "SD"	   
+},	   
+{	   
+"Title": "Surinam",	   
+"Identity": "SR"	   
+},	   
+{	   
+"Title": "Svalbard et Jan Mayen",	   
+"Identity": "SJ"	   
+},	   
+{	   
+"Title": "Swaziland",	   
+"Identity": "SZ"	   
+},	   
+{	   
+"Title": "Suède",	   
+"Identity": "SE"	   
+},	   
+{	   
+"Title": "Suisse",	   
+"Identity": "CH"	   
+},	   
+{	   
+"Title": "Syrie (République arabe syrienne)",	   
+"Identity": "SY"	   
+},	   
+{	   
+"Title": "Taïwan, Province de la République populaire de Chine",	   
+"Identity": "TW"	   
+},	   
+{	   
+"Title": "Tadjikistan",	   
+"Identity": "TJ"	   
+},	   
+{	   
+"Title": "Tanzanie, République unie de",	   
+"Identity": "TZ"	   
+},	   
+{	   
+"Title": "Thaïlande",	   
+"Identity": "TH"	   
+},	   
+{	   
+"Title": "Timor oriental",	   
+"Identity": "TL"	   
+},	   
+{	   
+"Title": "Togo",	   
+"Identity": "TG"	   
+},	   
+{	   
+"Title": "Tokelau",	   
+"Identity": "TK"	   
+},	   
+{	   
+"Title": "Tonga",	   
+"Identity": "TO"	   
+},	   
+{	   
+"Title": "Trinité-et-Tobago",	   
+"Identity": "TT"	   
+},	   
+{	   
+"Title": "Tunisie",	   
+"Identity": "TN"	   
+},	   
+{	   
+"Title": "Turquie",	   
+"Identity": "TR"	   
+},	   
+{	   
+"Title": "Turkménistan",	   
+"Identity": "TM"	   
+},	   
+{	   
+"Title": "Îles Turques-et-Caïques",	   
+"Identity": "TC"	   
+},	   
+{	   
+"Title": "Tuvalu",	   
+"Identity": "TV"	   
+},	   
+{	   
+"Title": "Ouganda",	   
+"Identity": "UG"	   
+},	   
+{	   
+"Title": "Ukraine",	   
+"Identity": "UA"	   
+},	   
+{	   
+"Title": "Émirats arabes unis",	   
+"Identity": "AE"	   
+},	   
+{	   
+"Title": "Royaume-Uni",	   
+"Identity": "GB"	   
+},	   
+{	   
+"Title": "États-Unis",	   
+"Identity": "US"	   
+},	   
+{	   
+"Title": "Îles mineures éloignées des États-Unis",	   
+"Identity": "UM"	   
+},	   
+{	   
+"Title": "Uruguay",	   
+"Identity": "UY"	   
+},	   
+{	   
+"Title": "Ouzbékistan",	   
+"Identity": "UZ"	   
+},	   
+{	   
+"Title": "Vanuatu",	   
+"Identity": "VU"	   
+},	   
+{	   
+"Title": "Venezuela, République bolivarienne du",	   
+"Identity": "VE"	   
+},	   
+{	   
+"Title": "Viêtnam",	   
+"Identity": "VN"	   
+},	   
+{	   
+"Title": "Îles Vierges, britanniques",	   
+"Identity": "VG"	   
+},	   
+{	   
+"Title": "Îles Vierges, américaines",	   
+"Identity": "VI"	   
+},	   
+{	   
+"Title": "Wallis-et-Futuna",	   
+"Identity": "WF"	   
+},	   
+{	   
+"Title": "Sahara occidental",	   
+"Identity": "EH"	   
+},	   
+{	   
+"Title": "Yémen",	   
+"Identity": "YE"	   
+},	   
+{	   
+"Title": "Zambie",	   
+"Identity": "ZM"	   
+},	   
+{	   
+"Title": "Zimbabwe",	   
+"Identity": "ZW"	   
+}	   
+]	 

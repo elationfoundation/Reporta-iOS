@@ -1,0 +1,998 @@
+[
+{
+"Title": "אפגניסטן",
+"Identity": "AF"
+},
+{
+"Title": "איי אולנד",
+"Identity": "AX"
+},
+{
+"Title": "אלבניה",
+"Identity": "AL"
+},
+{
+"Title": "אלג'יריה",
+"Identity": "DZ"
+},
+{
+"Title": "סמואה האמריקאית",
+"Identity": "AS"
+},
+{
+"Title": "אנדורה",
+"Identity": "AD"
+},
+{
+"Title": "אנגולה",
+"Identity": "AO"
+},
+{
+"Title": "אנגווילה",
+"Identity": "AI"
+},
+{
+"Title": "אנטרקטיקה",
+"Identity": "AQ"
+},
+{
+"Title": "אנטיגואה וברבודה",
+"Identity": "AG"
+},
+{
+"Title": "ארגנטינה",
+"Identity": "AR"
+},
+{
+"Title": "ארמניה",
+"Identity": "AM"
+},
+{
+"Title": "ארובה",
+"Identity": "AW"
+},
+{
+"Title": "אוסטרליה",
+"Identity": "AU"
+},
+{
+"Title": "אוסטריה",
+"Identity": "AT"
+},
+{
+"Title": "אזרבייג'ן",
+"Identity": "AZ"
+},
+{
+"Title": "איי בהאמה",
+"Identity": "BS"
+},
+{
+"Title": "בחריין",
+"Identity": "BH"
+},
+{
+"Title": "בנגלדש",
+"Identity": "BD"
+},
+{
+"Title": "ברבדוס",
+"Identity": "BB"
+},
+{
+"Title": "בלארוס",
+"Identity": "BY"
+},
+{
+"Title": "בלגיה",
+"Identity": "BE"
+},
+{
+"Title": "בליז",
+"Identity": "BZ"
+},
+{
+"Title": "בנין",
+"Identity": "BJ"
+},
+{
+"Title": "ברמודה",
+"Identity": "BM"
+},
+{
+"Title": "בהוטן",
+"Identity": "BT"
+},
+{
+"Title": "בוליביה, המדינה הרב-לאומית של ",
+"Identity": "BO"
+},
+{
+"Title": "בונאייר, סנט אוסטטיוס וסאבּא",
+"Identity": "BQ"
+},
+{
+"Title": "בוסניה והרצגובינה",
+"Identity": "BA"
+},
+{
+"Title": "בוטסואנה",
+"Identity": "BW"
+},
+{
+"Title": "האי בּוּבט",
+"Identity": "BV"
+},
+{
+"Title": "ברזיל",
+"Identity": "BR"
+},
+{
+"Title": "הטריטוריה הבריטית באוקיינוס ההודי",
+"Identity": "IO"
+},
+{
+"Title": "ברוניי דארוסלאם",
+"Identity": "BN"
+},
+{
+"Title": "בולגריה",
+"Identity": "BG"
+},
+{
+"Title": "בורקינה פאסו",
+"Identity": "BF"
+},
+{
+"Title": "בורונדי",
+"Identity": "BI"
+},
+{
+"Title": "קמבודיה",
+"Identity": "KH"
+},
+{
+"Title": "קמרון",
+"Identity": "CM"
+},
+{
+"Title": "קנדה",
+"Identity": "CA"
+},
+{
+"Title": "כף ורדה",
+"Identity": "CV"
+},
+{
+"Title": "איי קיימן",
+"Identity": "KY"
+},
+{
+"Title": "הרפובליקה המרכז אפריקאית",
+"Identity": "CF"
+},
+{
+"Title": "צ'אד",
+"Identity": "TD"
+},
+{
+"Title": "צ'ילה",
+"Identity": "CL"
+},
+{
+"Title": "סין",
+"Identity": "CN"
+},
+{
+"Title": "אי חג המולד",
+"Identity": "CX"
+},
+{
+"Title": "איי קוקוס (קילינג)",
+"Identity": "CC"
+},
+{
+"Title": "קולומביה",
+"Identity": "CO"
+},
+{
+"Title": "איי קומורו",
+"Identity": "KM"
+},
+{
+"Title": "קונגו",
+"Identity": "CG"
+},
+{
+"Title": "קונגו, הרפובליקה הדמוקרטית של",
+"Identity": "CD"
+},
+{
+"Title": "איי קוּק",
+"Identity": "CK"
+},
+{
+"Title": "קוסטה ריקה",
+"Identity": "CR"
+},
+{
+"Title": "חוף השנהב",
+"Identity": "CI"
+},
+{
+"Title": "קרואטיה",
+"Identity": "HR"
+},
+{
+"Title": "קובה",
+"Identity": "CU"
+},
+{
+"Title": "קורסאו",
+"Identity": "CW"
+},
+{
+"Title": "קפריסין",
+"Identity": "CY"
+},
+{
+"Title": "צ'כיה",
+"Identity": "CZ"
+},
+{
+"Title": "דנמרק",
+"Identity": "DK"
+},
+{
+"Title": "ג'יבוטי",
+"Identity": "DJ"
+},
+{
+"Title": "דומיניקה",
+"Identity": "DM"
+},
+{
+"Title": "הרפובליקה הדומיניקנית",
+"Identity": "DO"
+},
+{
+"Title": "אקוודור",
+"Identity": "EC"
+},
+{
+"Title": "מצרים",
+"Identity": "EG"
+},
+{
+"Title": "אל סלבדור",
+"Identity": "SV"
+},
+{
+"Title": "גינאה המשוונית",
+"Identity": "GQ"
+},
+{
+"Title": "אריתריאה",
+"Identity": "ER"
+},
+{
+"Title": "אסטוניה",
+"Identity": "EE"
+},
+{
+"Title": "אתיופיה",
+"Identity": "ET"
+},
+{
+"Title": "איי פולקלנד (מלווינס)",
+"Identity": "FK"
+},
+{
+"Title": "איי פארו",
+"Identity": "FO"
+},
+{
+"Title": "פיג'י",
+"Identity": "FJ"
+},
+{
+"Title": "פינלנד",
+"Identity": "FI"
+},
+{
+"Title": "צרפת",
+"Identity": "FR"
+},
+{
+"Title": "גיאנה הצרפתית",
+"Identity": "GF"
+},
+{
+"Title": "פולינזיה הצרפתית",
+"Identity": "PF"
+},
+{
+"Title": "הטריטוריות הצרפתיות הדרומיות",
+"Identity": "TF"
+},
+{
+"Title": "גבון",
+"Identity": "GA"
+},
+{
+"Title": "גמביה",
+"Identity": "GM"
+},
+{
+"Title": "גאורגיה",
+"Identity": "GE"
+},
+{
+"Title": "גרמניה",
+"Identity": "DE"
+},
+{
+"Title": "גאנה",
+"Identity": "GH"
+},
+{
+"Title": "גיברלטר",
+"Identity": "GI"
+},
+{
+"Title": "יוון",
+"Identity": "GR"
+},
+{
+"Title": "גרינלנד",
+"Identity": "GL"
+},
+{
+"Title": "גרנדה",
+"Identity": "GD"
+},
+{
+"Title": "גואדלוּפּ",
+"Identity": "GP"
+},
+{
+"Title": "גוּאם",
+"Identity": "GU"
+},
+{
+"Title": "גואטמלה",
+"Identity": "GT"
+},
+{
+"Title": "גרנזי",
+"Identity": "GG"
+},
+{
+"Title": "גינאה",
+"Identity": "GN"
+},
+{
+"Title": "גינאה-ביסאו",
+"Identity": "GW"
+},
+{
+"Title": "גויאנה",
+"Identity": "GY"
+},
+{
+"Title": "האיטי",
+"Identity": "HT"
+},
+{
+"Title": "האי הרד ואיי מקדונלד",
+"Identity": "HM"
+},
+{
+"Title": "הכס הקדוש (מדינת הווטיקן)",
+"Identity": "VA"
+},
+{
+"Title": "הונדורס",
+"Identity": "HN"
+},
+{
+"Title": "הונג קונג",
+"Identity": "HK"
+},
+{
+"Title": "הונגריה",
+"Identity": "HU"
+},
+{
+"Title": "איסלנד",
+"Identity": "IS"
+},
+{
+"Title": "הודו",
+"Identity": "IN"
+},
+{
+"Title": "אינדונזיה",
+"Identity": "ID"
+},
+{
+"Title": "איראן, הרפובליקה האיסלאמית של",
+"Identity": "IR"
+},
+{
+"Title": "עירק",
+"Identity": "IQ"
+},
+{
+"Title": "אירלנד",
+"Identity": "IE"
+},
+{
+"Title": "האי מאן",
+"Identity": "IM"
+},
+{
+"Title": "ישראל",
+"Identity": "IL"
+},
+{
+"Title": "איטליה",
+"Identity": "IT"
+},
+{
+"Title": "ג'מייקה",
+"Identity": "JM"
+},
+{
+"Title": "יפן",
+"Identity": "JP"
+},
+{
+"Title": "ג'רסי",
+"Identity": "JE"
+},
+{
+"Title": "ירדן",
+"Identity": "JO"
+},
+{
+"Title": "קזחסטן",
+"Identity": "KZ"
+},
+{
+"Title": "קניה",
+"Identity": "KE"
+},
+{
+"Title": "קיריבאטי",
+"Identity": "KI"
+},
+{
+"Title": "קוריאה, הרפובליקה העממית הדמוקרטית של",
+"Identity": "KP"
+},
+{
+"Title": "קוריאה, הרפובליקה של",
+"Identity": "KR"
+},
+{
+"Title": "כוויית",
+"Identity": "KW"
+},
+{
+"Title": "קירגיסטן",
+"Identity": "KG"
+},
+{
+"Title": "הרפובליקה הדמוקרטית העממית של לאוס",
+"Identity": "LA"
+},
+{
+"Title": "לטביה",
+"Identity": "LV"
+},
+{
+"Title": "לבנון",
+"Identity": "LB"
+},
+{
+"Title": "לסוטו",
+"Identity": "LS"
+},
+{
+"Title": "ליבריה",
+"Identity": "LR"
+},
+{
+"Title": "לוב",
+"Identity": "LY"
+},
+{
+"Title": "ליכטנשטיין",
+"Identity": "LI"
+},
+{
+"Title": "ליטא",
+"Identity": "LT"
+},
+{
+"Title": "לוקסמבורג",
+"Identity": "LU"
+},
+{
+"Title": "מקאו",
+"Identity": "MO"
+},
+{
+"Title": "מקדוניה, הרפובליקה היוגוסלבית לשעבר של",
+"Identity": "MK"
+},
+{
+"Title": "מדגסקר",
+"Identity": "MG"
+},
+{
+"Title": "מלאווי",
+"Identity": "MW"
+},
+{
+"Title": "מלזיה",
+"Identity": "MY"
+},
+{
+"Title": "האיים המלדיבים",
+"Identity": "MV"
+},
+{
+"Title": "מאלי",
+"Identity": "ML"
+},
+{
+"Title": "מלטה",
+"Identity": "MT"
+},
+{
+"Title": "איי מרשל",
+"Identity": "MH"
+},
+{
+"Title": "מרטיניק",
+"Identity": "MQ"
+},
+{
+"Title": "מאוריטניה",
+"Identity": "MR"
+},
+{
+"Title": "מאוריציוס",
+"Identity": "MU"
+},
+{
+"Title": "מאיוט",
+"Identity": "YT"
+},
+{
+"Title": "מקסיקו",
+"Identity": "MX"
+},
+{
+"Title": "מיקרונזיה, המדינות הפדרליות של",
+"Identity": "FM"
+},
+{
+"Title": "מולדובה, הרפובליקה של",
+"Identity": "MD"
+},
+{
+"Title": "מונקו",
+"Identity": "MC"
+},
+{
+"Title": "מונגוליה",
+"Identity": "MN"
+},
+{
+"Title": "מונטנגרו",
+"Identity": "ME"
+},
+{
+"Title": "מונסראט",
+"Identity": "MS"
+},
+{
+"Title": "מרוקו",
+"Identity": "MA"
+},
+{
+"Title": "מוזמביק",
+"Identity": "MZ"
+},
+{
+"Title": "מיאנמר",
+"Identity": "MM"
+},
+{
+"Title": "נמיביה",
+"Identity": "NA"
+},
+{
+"Title": "נאורו",
+"Identity": "NR"
+},
+{
+"Title": "נפל",
+"Identity": "NP"
+},
+{
+"Title": "הולנד",
+"Identity": "NL"
+},
+{
+"Title": "קלדוניה החדשה",
+"Identity": "NC"
+},
+{
+"Title": "ניו זילנד",
+"Identity": "NZ"
+},
+{
+"Title": "ניקרגואה",
+"Identity": "NI"
+},
+{
+"Title": "ניז'ר",
+"Identity": "NE"
+},
+{
+"Title": "ניגריה",
+"Identity": "NG"
+},
+{
+"Title": "ניווה",
+"Identity": "NU"
+},
+{
+"Title": "האי נורפוק",
+"Identity": "NF"
+},
+{
+"Title": "איי מריינה הצפוניים",
+"Identity": "MP"
+},
+{
+"Title": "נורבגיה",
+"Identity": "NO"
+},
+{
+"Title": "עומאן",
+"Identity": "OM"
+},
+{
+"Title": "פקיסטן",
+"Identity": "PK"
+},
+{
+"Title": "פלאו",
+"Identity": "PW"
+},
+{
+"Title": "פלסטין, מדינת",
+"Identity": "PS"
+},
+{
+"Title": "פנמה",
+"Identity": "PA"
+},
+{
+"Title": "פפואה גינאה החדשה",
+"Identity": "PG"
+},
+{
+"Title": "פרגוואי",
+"Identity": "PY"
+},
+{
+"Title": "פרו",
+"Identity": "PE"
+},
+{
+"Title": "פיליפינים",
+"Identity": "PH"
+},
+{
+"Title": "איי פיטקרן",
+"Identity": "PN"
+},
+{
+"Title": "פולין",
+"Identity": "PL"
+},
+{
+"Title": "פורטוגל",
+"Identity": "PT"
+},
+{
+"Title": "פורטו ריקו",
+"Identity": "PR"
+},
+{
+"Title": "קטאר",
+"Identity": "QA"
+},
+{
+"Title": "ראוניון",
+"Identity": "RE"
+},
+{
+"Title": "רומניה",
+"Identity": "RO"
+},
+{
+"Title": "הפדרציה הרוסית",
+"Identity": "RU"
+},
+{
+"Title": "רואנדה",
+"Identity": "RW"
+},
+{
+"Title": "סנט ברתולמיאו",
+"Identity": "BL"
+},
+{
+"Title": "סנט הלנה, אסנשן וטריסטן דה קונה",
+"Identity": "SH"
+},
+{
+"Title": "סנט קיטס ונוויס",
+"Identity": "KN"
+},
+{
+"Title": "סנט לוסיה",
+"Identity": "LC"
+},
+{
+"Title": "סנט מרטין (החלק הצרפתי)",
+"Identity": "MF"
+},
+{
+"Title": "סנט פייר ומיקלון",
+"Identity": "PM"
+},
+{
+"Title": "סנט וינסנט והגרנדינים",
+"Identity": "VC"
+},
+{
+"Title": "סמואה",
+"Identity": "WS"
+},
+{
+"Title": "סן מרינו",
+"Identity": "SM"
+},
+{
+"Title": "סאו טומה ופרינסיפה",
+"Identity": "ST"
+},
+{
+"Title": "ערב הסעודית",
+"Identity": "SA"
+},
+{
+"Title": "סנגל",
+"Identity": "SN"
+},
+{
+"Title": "סרביה",
+"Identity": "RS"
+},
+{
+"Title": "איי סיישל",
+"Identity": "SC"
+},
+{
+"Title": "סיירה ליאונה",
+"Identity": "SL"
+},
+{
+"Title": "סינגפור",
+"Identity": "SG"
+},
+{
+"Title": "סנט מרטין (החלק ההולנדי)",
+"Identity": "SX"
+},
+{
+"Title": "סלובקיה",
+"Identity": "SK"
+},
+{
+"Title": "סלובניה",
+"Identity": "SI"
+},
+{
+"Title": "איי שלמה",
+"Identity": "SB"
+},
+{
+"Title": "סומליה",
+"Identity": "SO"
+},
+{
+"Title": "דרום אפריקה",
+"Identity": "ZA"
+},
+{
+"Title": "איי ג'ורג'יה הדרומית ואיי סנדוויץ' הדרומיים",
+"Identity": "GS"
+},
+{
+"Title": "דרום סודן",
+"Identity": "SS"
+},
+{
+"Title": "ספרד",
+"Identity": "ES"
+},
+{
+"Title": "סרי לנקה",
+"Identity": "LK"
+},
+{
+"Title": "סודן",
+"Identity": "SD"
+},
+{
+"Title": "סורינם",
+"Identity": "SR"
+},
+{
+"Title": "סבאלברד ויאן מאיין",
+"Identity": "SJ"
+},
+{
+"Title": "סווזילנד",
+"Identity": "SZ"
+},
+{
+"Title": "שבדיה",
+"Identity": "SE"
+},
+{
+"Title": "שוויצריה",
+"Identity": "CH"
+},
+{
+"Title": "הרפובליקה הערבית הסורית",
+"Identity": "SY"
+},
+{
+"Title": "טייוואן,מחוז של סין",
+"Identity": "TW"
+},
+{
+"Title": "טג'יקיסטן",
+"Identity": "TJ"
+},
+{
+"Title": "טנזניה, הרפובליקה המאוחדת של",
+"Identity": "TZ"
+},
+{
+"Title": "תאילנד",
+"Identity": "TH"
+},
+{
+"Title": "טימור לאסטה",
+"Identity": "TL"
+},
+{
+"Title": "טוגו",
+"Identity": "TG"
+},
+{
+"Title": "טוקלאו",
+"Identity": "TK"
+},
+{
+"Title": "טונגה",
+"Identity": "TO"
+},
+{
+"Title": "טרינידד וטובגו",
+"Identity": "TT"
+},
+{
+"Title": "טוניסיה",
+"Identity": "TN"
+},
+{
+"Title": "טורקיה",
+"Identity": "TR"
+},
+{
+"Title": "טרקמניסטן",
+"Identity": "TM"
+},
+{
+"Title": "איי טורקס וקאיקוס",
+"Identity": "TC"
+},
+{
+"Title": "טובאלו",
+"Identity": "TV"
+},
+{
+"Title": "אוגנדה",
+"Identity": "UG"
+},
+{
+"Title": "אוקראינה",
+"Identity": "UA"
+},
+{
+"Title": "איחוד האמירויות הערביות",
+"Identity": "AE"
+},
+{
+"Title": "הממלכה המאוחדת",
+"Identity": "GB"
+},
+{
+"Title": "ארצות הברית",
+"Identity": "US"
+},
+{
+"Title": "איים קטנים ומרוחקים ש ארצות הברית",
+"Identity": "UM"
+},
+{
+"Title": "אורוגוואי",
+"Identity": "UY"
+},
+{
+"Title": "אוזבקיסטן",
+"Identity": "UZ"
+},
+{
+"Title": "ונואטו",
+"Identity": "VU"
+},
+{
+"Title": "ונצואלה, הרפובליקה הבוליברית של",
+"Identity": "VE"
+},
+{
+"Title": "וייטנאם",
+"Identity": "VN"
+},
+{
+"Title": "איי הבתולה, הבריטיים",
+"Identity": "VG"
+},
+{
+"Title": "איי הבתולה, של ארה\"ב",
+"Identity": "VI"
+},
+{
+"Title": "איי ווליס ופוטונה",
+"Identity": "WF"
+},
+{
+"Title": "סהרה המערבית",
+"Identity": "EH"
+},
+{
+"Title": "תימן",
+"Identity": "YE"
+},
+{
+"Title": "זמביה",
+"Identity": "ZM"
+},
+{
+"Title": "זימבבואה",
+"Identity": "ZW"
+}
+]
